@@ -34,6 +34,39 @@ function MarkdownComponent(props) {
           </div>
   
           <div className="row mt-4">
+            <div className="col text-center" style={{ padding: "10px" }}>
+              <a
+                class="github-button"
+                href="https://github.com/AnishDe12020"
+                data-size="large"
+                aria-label="Follow @AnishDe12020 on GitHub"
+              >
+                Follow @AnishDe12020
+              </a>
+              <div style={{ marginLeft: "10px" }}></div>
+              <a
+                class="github-button"
+                href="https://github.com/AnishDe12020/Markdown-Previewer"
+                data-icon="octicon-star"
+                data-size="large"
+                aria-label="Star AnishDe12020/Markdown-Previewer on GitHub"
+              >
+                Star
+              </a>
+
+              <a
+                class="github-button"
+                href="https://github.com/AnishDe12020/Markdown-Previewer/fork"
+                data-icon="octicon-repo-forked"
+                data-size="large"
+                aria-label="Fork AnishDe12020/Markdown-Previewer on GitHub"
+              >
+                Fork
+              </a>
+            </div>
+          </div>
+
+          <div className="row mt-4">
             <div className="col-md-6">
               <div className="col text-center">
                 <h4>

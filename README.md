@@ -7,7 +7,7 @@ Live demo [here](https://previewmd.vercel.app/) - https://previewmd.vercel.app/
 
 ---
 
-## Availanle Scripts
+## Available Scripts
 In this directory you can run - 
 ### `npm start`
 The app will be run in the development mode
