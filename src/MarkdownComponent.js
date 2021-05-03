@@ -26,7 +26,7 @@ function MarkdownComponent(props) {
           <div className="row mt-4">
             <div className="col text-center">
               <h1>
-                <Badge className="text-align-center" variant="light">
+                <Badge className="text-align-center" variant="dark">
                   Markdown Preview
                 </Badge>
               </h1>
