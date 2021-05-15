@@ -3,7 +3,7 @@ This is my first real react application
 
 --- 
 
-Live demo [here](https://previewmd.vercel.app/) - https://previewmd.vercel.app/
+Live demo [here](https://previewermd.vercel.app/) - https://previewermd.vercel.app/
 
 ---
 
